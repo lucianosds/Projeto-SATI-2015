@@ -5,7 +5,6 @@
  */
 package Tela;
 
-//um elefante incomoda muita gente huehuehue
 import VO.Participante;
 import java.text.DecimalFormat;
 import java.text.NumberFormat;
